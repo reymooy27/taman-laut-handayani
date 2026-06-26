@@ -1,5 +1,5 @@
 # Taman Laut Handayani — Showcase Website
 
-Seafood restaurant in Labuan Bajo, Flores, NTT.
+Restoran seafood legendaris di Labuan Bajo, Flores, NTT.
 
-reymooy27.github.io/taman-laut-handayani
+🔗 [Live Site](https://taman-laut-handayani.vercel.app)
